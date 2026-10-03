@@ -711,5 +711,108 @@
         }
       ]
     }
+  },
+  {
+    "v": 1,
+    "nr": 4,
+    "zeit": "2026-10-03T00:36:27.980Z",
+    "partei": "MCowBQYDK2VwAyEAQWEsKR1RyNWMYvzOa4INxXSRpWOFd5Na6V3nU3mex7w=",
+    "art": "beleg",
+    "thema": "anker",
+    "inhaltHash": "95ce33c39a53425c58d61a3a6dfe23a7f8572aee3d0ce1df99598ebf02c89c17",
+    "bezug": [],
+    "sichtbarkeit": "oeffentlich",
+    "vorher": "63c7727693287b99a4b09df3285a88e1a0fd859eb9014fd0426df5620ae8ca66",
+    "hash": "70690b10db8f4f7ee37e6b6fdf1d54ffd0972721d512013fdf26286be85f03f4",
+    "signatur": "t006A1Y9VBJkR86yRuFpCbWnzOrzA0utVRqxqRR+HyT9JIO5YrhHj9hxA/tdgqa/kKYqkLQyknBewGXvBLG2Aw==",
+    "inhalt": {
+      "regel": "praefixHash = SHA-256 der ersten `zeilen` nichtleeren Zeilen, je mit \\n abgeschlossen",
+      "quellen": [
+        {
+          "quelle": "zeitband:1a323653-b2bb-4127-a505-2f8a5ca190b5",
+          "zeilen": 7,
+          "praefixHash": "d94443b023825662eecf5201e6799d34cd2fb0ff5c4302655a00f972bf91bd54",
+          "unversehrt": true
+        },
+        {
+          "quelle": "zeitband:1f0f89f7-a464-4e98-ac10-a93916560bfb",
+          "zeilen": 4,
+          "praefixHash": "6a82cfe65a006eff2f91f58b069d667a8ef8e8899c56139003fcabf46142e928",
+          "unversehrt": true
+        },
+        {
+          "quelle": "zeitband:292a43c2-9ef0-4fed-8aa7-65d2365df073",
+          "zeilen": 3006,
+          "praefixHash": "44ed4f7a375098043961e4990bbbda6bfbdb351d67ce4aaba4d61393fb90ae97",
+          "unversehrt": true
+        },
+        {
+          "quelle": "zeitband:3608d42e-3fd6-4471-b3a6-a1d35c9a6bd0",
+          "zeilen": 12,
+          "praefixHash": "86e94c77a8640c2b0e6f40b8d9bd292d620750fef9770cbbf2a5b07690414bd9",
+          "unversehrt": true
+        },
+        {
+          "quelle": "zeitband:3d5a8820-8083-4590-b350-02abfa259f5d",
+          "zeilen": 611,
+          "praefixHash": "28de632207a6a0befb3202ef089d101da3b868536540f68675429808a1c39ad9",
+          "unversehrt": true
+        },
+        {
+          "quelle": "zeitband:3e3c7e91-4b05-42bf-aec6-bb2f902cb342",
+          "zeilen": 7,
+          "praefixHash": "fbece5728987cad29a65c000fa76c90e47dd97ce5202ad6ebd4aef006eb1aacc",
+          "unversehrt": true
+        },
+        {
+          "quelle": "zeitband:47ee69d9-5a0b-4d04-a777-ffc92689741b",
+          "zeilen": 429,
+          "praefixHash": "42b9a0e47e4f67deb31bbb816ee2101507138a0af89e604daaa3d4824ca0ecb8",
+          "unversehrt": true
+        },
+        {
+          "quelle": "zeitband:4c20e489-0ce6-4392-8984-eefd20f96d7c",
+          "zeilen": 9,
+          "praefixHash": "5960af0c8d191fa93aaae3ee7bcc2f26fb82f7c8ae2b4337c23a5f51676d1e29",
+          "unversehrt": true
+        },
+        {
+          "quelle": "zeitband:61b870da-c21e-4615-885d-7ba15a980d78",
+          "zeilen": 197,
+          "praefixHash": "911c83d6aa08dac00222a2d7b13927394b4213c3702bb92fe97b55b968ce5e59",
+          "unversehrt": true
+        },
+        {
+          "quelle": "zeitband:77fb7a18-e930-4399-8bbe-7c9eeba0e10e",
+          "zeilen": 12,
+          "praefixHash": "f15cba43194bb6c7202ebd08e5e39797fa9e0d61246674b1e3311173ebfb975a",
+          "unversehrt": true
+        },
+        {
+          "quelle": "zeitband:bfa98e18-9130-4737-82bd-57c27c50d772",
+          "zeilen": 6,
+          "praefixHash": "d3ecd5f076885ead7c02170430850a3cb4e3aa484cf630e3a344a043de114e98",
+          "unversehrt": true
+        },
+        {
+          "quelle": "zeitband:cebb56dd-a277-418b-badd-9c8dbf22edeb",
+          "zeilen": 17,
+          "praefixHash": "480aa48ed7f5850b3584dc88658a13b932ff8191f556f59b631332fe9cbe643b",
+          "unversehrt": true
+        },
+        {
+          "quelle": "zeitband:f6e444c3-d4a3-4925-96ae-27748117d58b",
+          "zeilen": 518,
+          "praefixHash": "916c52fdbe7bb8e01bea42e5af8c6429a55dae47e90d8f4fb4bf27efbe1da940",
+          "unversehrt": true
+        },
+        {
+          "quelle": "zeitband:fc24dc9d-1705-433b-b7ce-2355b4894fdc",
+          "zeilen": 15,
+          "praefixHash": "e3597f17e5c79641c821cc0d93eb501a5cc48a184b751cd02db9a757cd0a8541",
+          "unversehrt": true
+        }
+      ]
+    }
   }
 ]
