@@ -1335,5 +1335,309 @@
         }
       ]
     }
+  },
+  {
+    "v": 1,
+    "nr": 10,
+    "zeit": "2026-10-08T04:31:11.320Z",
+    "partei": "MCowBQYDK2VwAyEA+zbxOA5oa2KyPxb9oRjJysVA2qhoXD8FKl/ahHDgRJ8=",
+    "art": "aussage",
+    "thema": "gruendung",
+    "inhaltHash": "8c0b3c4c6aae7c54f74eb224437a45a2fc28abd6b002b16bd75dadb98233edf9",
+    "bezug": [],
+    "sichtbarkeit": "oeffentlich",
+    "vorher": "eedded9222f62ea00831b9da0c4e8a664a1ed23ce0822a51d6c846a7b28aed54",
+    "hash": "51a294a9b98175873758aa6d779b0025590ef1932e0e36f79a22704b7e342ed5",
+    "signatur": "rtgAdHxneLq34GrMeZppoIz0xhdNqfI2zfgdTvA2KrqMaIUubpRyMGTz9b2EHwSrZp4QyFgMdYU7JvjgYUONAw==",
+    "inhalt": {
+      "schluessel": "G0",
+      "fassung": 1,
+      "beschlossen": "2026-10-08",
+      "titel": "Die Gründungsphase ist eröffnet",
+      "kern": [
+        "Diese Einträge halten den Ursprung der Durchschrift fest, unterschrieben vom Gründer, Fabian Dewald.",
+        "Bis zur Versiegelung darf der Gründer jeden Grundsatz ändern — jede Änderung ist eine neue Fassung mit Verweis auf die alte. Nichts wird überschrieben.",
+        "Den Zeitpunkt der Versiegelung bestimmt der Gründer (genannt: der 29.10.2029 oder früher). Er wird selbst als Eintrag festgehalten."
+      ],
+      "quellen": [
+        "Fabian im Vorgang „Offenes Protokoll für Transparenz“, 08.10.2026"
+      ],
+      "phase": "Gründungsphase — Änderungen durch den Gründer als neue, sichtbare Fassung; Versiegelung zu einem von ihm bestimmten Zeitpunkt."
+    }
+  },
+  {
+    "v": 1,
+    "nr": 11,
+    "zeit": "2026-10-08T04:31:11.327Z",
+    "partei": "MCowBQYDK2VwAyEA+zbxOA5oa2KyPxb9oRjJysVA2qhoXD8FKl/ahHDgRJ8=",
+    "art": "aussage",
+    "thema": "gruendung",
+    "inhaltHash": "dd6c3d9e1c7909f42253b996eb1817d6f5da183429ba7e22ae3d28fd1e7d4481",
+    "bezug": [],
+    "sichtbarkeit": "oeffentlich",
+    "vorher": "51a294a9b98175873758aa6d779b0025590ef1932e0e36f79a22704b7e342ed5",
+    "hash": "2dacd5ba3b3dac3401913ad0d128af754d4b17d8e24877b8e87758eb6dca339d",
+    "signatur": "4JQMF3QphbE6WdAiIqJTi9ZqisIUu1x+ku0KfbTFV+pGRXXHqkPqEdL1XMNC+Y4QgmqlEhT29mz/nk5DIw3iCQ==",
+    "inhalt": {
+      "schluessel": "G1",
+      "fassung": 1,
+      "beschlossen": "2026-10-05",
+      "titel": "Grundsätze des offenen Systems",
+      "wortlaut": "Unternehmen, Marken, Industrie, die in der Öffentlichkeit stehen, stehen in der Öffentlichkeit mit dem, was sie in dieser Welt generieren.",
+      "kern": [
+        "Öffentlich prüfbar statt Demo: Was Hersteller, Betriebe, Dienstleister, Marken und Personen des öffentlichen Lebens erzeugen, bleibt einsehbar und nachprüfbar. Sensibles wird unkenntlich und nur Befugten gezeigt.",
+        "Privatpersonen sind etwas anderes — dort wird genau abgewogen.",
+        "Dasselbe System, jede Perspektive: Die Hülle stellt sich jeder selbst zusammen; vereinheitlicht wird nur, wo sich Menschen treffen.",
+        "Das Fundament ist unveränderlich: Die Transparenz-Spielregeln (Aussage → Beleg → Deckung → Siegel) kann niemand für sich ändern.",
+        "Gemeinsamer Vorgang heißt volle Einsicht für alle Beteiligten.",
+        "Eigene KI, eigene Kosten: Wer mitarbeitet, bringt seine eigene KI mit."
+      ],
+      "quellen": [
+        "docs/plaene/KONZEPT-OFFENES-SYSTEM.md §1"
+      ],
+      "phase": "Gründungsphase — Änderungen durch den Gründer als neue, sichtbare Fassung; Versiegelung zu einem von ihm bestimmten Zeitpunkt."
+    }
+  },
+  {
+    "v": 1,
+    "nr": 12,
+    "zeit": "2026-10-08T04:31:11.332Z",
+    "partei": "MCowBQYDK2VwAyEA+zbxOA5oa2KyPxb9oRjJysVA2qhoXD8FKl/ahHDgRJ8=",
+    "art": "aussage",
+    "thema": "gruendung",
+    "inhaltHash": "22e10ae994c72573d5095173e7cce106683f9d1981c8c3f49ea4d18f095d35c3",
+    "bezug": [],
+    "sichtbarkeit": "oeffentlich",
+    "vorher": "2dacd5ba3b3dac3401913ad0d128af754d4b17d8e24877b8e87758eb6dca339d",
+    "hash": "99739c33cbea2e0be9c7ce3fa9da0a0d16cdcdfdb91df4ed478482096274c282",
+    "signatur": "uXmzlMmYlUajQTbmBhuk4QuciLTm9T/zQcpEf3h72cWK1+FqKkOmXs5q5oS8XTJeXmWmQxWPmZcugHjrH4MgDw==",
+    "inhalt": {
+      "schluessel": "G2",
+      "fassung": 1,
+      "beschlossen": "2026-10-07",
+      "titel": "Identität: nur Menschen, Gebilde und Zugehörigkeiten",
+      "kern": [
+        "Es gibt nur Menschen — je Mensch genau ein Konto.",
+        "Unternehmen, Marken, Produkte, Visionen und Agenten sind Gebilde, die Menschen erschaffen, um sich zu verbinden. Sie haben eine Erscheinung, aber kein eigenes Konto.",
+        "Daneben steht immer die Wahrheit: welche Menschen wann dazugehören (Zugehörigkeit mit Rolle, Anteil, von–bis). Der Angestellte ist für seine Zeit das Unternehmen; eine Zugehörigkeit endet, sie wird nie gelöscht.",
+        "Agenten handeln für einen Menschen und sind ihm zugeordnet."
+      ],
+      "quellen": [
+        "supabase/migrations/0034_menschen_gebilde_perspektiven.sql (Kopf)",
+        "Archiv/03_Projekte/WohnenWo/Engine/2026-10-07_GUTACHTEN_OFFENES-SYSTEM.html"
+      ],
+      "phase": "Gründungsphase — Änderungen durch den Gründer als neue, sichtbare Fassung; Versiegelung zu einem von ihm bestimmten Zeitpunkt."
+    }
+  },
+  {
+    "v": 1,
+    "nr": 13,
+    "zeit": "2026-10-08T04:31:11.337Z",
+    "partei": "MCowBQYDK2VwAyEA+zbxOA5oa2KyPxb9oRjJysVA2qhoXD8FKl/ahHDgRJ8=",
+    "art": "aussage",
+    "thema": "gruendung",
+    "inhaltHash": "0d81266165034d8051da105d4f2e6eaad8d9c4a7e11c570f7a313a6c8490fb94",
+    "bezug": [],
+    "sichtbarkeit": "oeffentlich",
+    "vorher": "99739c33cbea2e0be9c7ce3fa9da0a0d16cdcdfdb91df4ed478482096274c282",
+    "hash": "75f04beba39374e380e60a188ba13f6095dbe23ca26619b1615bcc1e1648eb1d",
+    "signatur": "JFYG8T2OjwjQqyy9dfq52UBOp1VwsVEeLfQXuRonmTUwJe6BUybn3+d6xJ9ItVszn1REl7+at774fmyVIZjZBw==",
+    "inhalt": {
+      "schluessel": "G3",
+      "fassung": 1,
+      "beschlossen": "2026-10-07",
+      "titel": "Spielregeln beim Eintritt",
+      "kern": [
+        "Wer beitritt, nimmt einmal die Spielregeln an — gesiegelt.",
+        "Damit darf jede beteiligte Partei die gemeinsame Akte sofort öffentlich machen; Privates bleibt geschützt.",
+        "Jeder Inhalt kennt Urheber und Empfänger — beide dürfen ihn veröffentlichen.",
+        "Außenstehende, die nicht im System sind, werden eingeladen; ihre Stellungnahme ist jederzeit möglich."
+      ],
+      "quellen": [
+        "supabase/migrations/0034_menschen_gebilde_perspektiven.sql (Kopf)",
+        "Archiv/03_Projekte/WohnenWo/Engine/2026-10-07_RECHTSPRUEFUNG_TRANSPARENZ.html"
+      ],
+      "phase": "Gründungsphase — Änderungen durch den Gründer als neue, sichtbare Fassung; Versiegelung zu einem von ihm bestimmten Zeitpunkt."
+    }
+  },
+  {
+    "v": 1,
+    "nr": 14,
+    "zeit": "2026-10-08T04:31:11.342Z",
+    "partei": "MCowBQYDK2VwAyEA+zbxOA5oa2KyPxb9oRjJysVA2qhoXD8FKl/ahHDgRJ8=",
+    "art": "aussage",
+    "thema": "gruendung",
+    "inhaltHash": "fcabce560e5b122baa66e7e65b6cf2af9605c918058feee13d31f6e612825629",
+    "bezug": [],
+    "sichtbarkeit": "oeffentlich",
+    "vorher": "75f04beba39374e380e60a188ba13f6095dbe23ca26619b1615bcc1e1648eb1d",
+    "hash": "ae3e0edf4515fee0e89875ea066ee253bb214b0d2304752bba37b0fb64b926b9",
+    "signatur": "yfKzidsB0Vti54xuRTv1bQ/bEFiPlWh+pdgXjxIjVJg5i8z1Di06ZKhtTdb11LBGmEotRAci1KFYCQlzEOK5Cw==",
+    "inhalt": {
+      "schluessel": "G4",
+      "fassung": 1,
+      "beschlossen": "2026-10-07",
+      "titel": "Perspektiven",
+      "kern": [
+        "Jede Partei hat ihre eigene Perspektive auf ein gemeinsames Geschehen — festgehalten als ihr eigenes, nur anhängendes Protokoll.",
+        "Keine Perspektive überschreibt eine andere; ein Betroffener kann jederzeit eine Gegendarstellung beifügen."
+      ],
+      "quellen": [
+        "supabase/migrations/0034_menschen_gebilde_perspektiven.sql (Perspektiven)",
+        "Archiv/03_Projekte/WohnenWo/Engine/2026-10-07_UNIVERSUM-ARCHITEKTUR.html"
+      ],
+      "phase": "Gründungsphase — Änderungen durch den Gründer als neue, sichtbare Fassung; Versiegelung zu einem von ihm bestimmten Zeitpunkt."
+    }
+  },
+  {
+    "v": 1,
+    "nr": 15,
+    "zeit": "2026-10-08T04:31:11.347Z",
+    "partei": "MCowBQYDK2VwAyEA+zbxOA5oa2KyPxb9oRjJysVA2qhoXD8FKl/ahHDgRJ8=",
+    "art": "aussage",
+    "thema": "gruendung",
+    "inhaltHash": "aba6a2c96f8b14e8fd5aedf3e1792d17cb1c97152c4133e1ea1530930129b817",
+    "bezug": [],
+    "sichtbarkeit": "oeffentlich",
+    "vorher": "ae3e0edf4515fee0e89875ea066ee253bb214b0d2304752bba37b0fb64b926b9",
+    "hash": "826ab5fa71494b5cecc5cc55f7dc25aeb5ed8ff0f1b41227a28cf90be0149c41",
+    "signatur": "ouYV3uZuURYx+jVevoFGE2wRiNniaQ/brd55XNFkhJ4JdBdFgC1bM3bJPuFmA+D1ZGRcFC67I+pCCH6th7tdAA==",
+    "inhalt": {
+      "schluessel": "G5",
+      "fassung": 1,
+      "beschlossen": "2026-10-07",
+      "titel": "Die Durchschrift ist ein eigenständiges, offenes Protokoll",
+      "wortlaut": "Eigentlich ist nicht das Betriebssystem das, was ich verkaufen will … sondern genau dieser Teil, den wir hier festhalten. Was wäre, wenn wir genau diesen Teil … von jedem und für jeden nutzbar in dessen eigenem System machen?",
+      "kern": [
+        "Das Herzstück ist das Protokoll, nicht das Betriebssystem. Jeder soll es in seinem eigenen System nebenbei laufen lassen können.",
+        "Was jemand braucht, um niemandem glauben zu müssen — Spezifikation, Prüfer, Testvektoren —, darf nie einer einzelnen Partei gehören.",
+        "Das Betriebssystem wird der erste Kunde seines eigenen Protokolls."
+      ],
+      "quellen": [
+        "Fabian im Vorgang „Offenes Protokoll für Transparenz“, 07.10.2026",
+        "Archiv/03_Projekte/WohnenWo/Engine/2026-10-07_DURCHSCHRIFT_PLAN-UND-SCHNITT.html"
+      ],
+      "phase": "Gründungsphase — Änderungen durch den Gründer als neue, sichtbare Fassung; Versiegelung zu einem von ihm bestimmten Zeitpunkt."
+    }
+  },
+  {
+    "v": 1,
+    "nr": 16,
+    "zeit": "2026-10-08T04:31:11.352Z",
+    "partei": "MCowBQYDK2VwAyEA+zbxOA5oa2KyPxb9oRjJysVA2qhoXD8FKl/ahHDgRJ8=",
+    "art": "aussage",
+    "thema": "gruendung",
+    "inhaltHash": "e767e65dc906d883b9a5bdef1b841cd269e2ba849ca322a0c18526216570e3b3",
+    "bezug": [],
+    "sichtbarkeit": "oeffentlich",
+    "vorher": "826ab5fa71494b5cecc5cc55f7dc25aeb5ed8ff0f1b41227a28cf90be0149c41",
+    "hash": "3b90cd52706322eaae14664c3d43f4df701d69ca3e43aa434562f60ee03b7108",
+    "signatur": "OuwX5UK0u2/D8jv6kh6g0ZxCE+12JO3Z2gaqbijLcYWGl1td2zwxsuZ92RsOTCqvZI7j/V9PLrdGl6XDqUZoAg==",
+    "inhalt": {
+      "schluessel": "G6",
+      "fassung": 1,
+      "beschlossen": "2026-10-07",
+      "titel": "Der Anspruch: das ganze Universum, so wie es im Jetzt ist",
+      "kern": [
+        "Die Durchschrift soll alles abbilden können, was im Jetzt geschieht — Menschen, Gebilde, Dinge, Orte, Ereignisse, Wertströme.",
+        "Die Vergangenheit ist eine Kette von Momentaufnahmen.",
+        "Jede Partei führt ihr eigenes Protokoll; verbunden werden sie über Fingerabdrücke, Zeugen und öffentliche Anker — nicht über eine gemeinsame Kette."
+      ],
+      "quellen": [
+        "Archiv/03_Projekte/WohnenWo/Engine/2026-10-07_UNIVERSUM-ARCHITEKTUR.html"
+      ],
+      "phase": "Gründungsphase — Änderungen durch den Gründer als neue, sichtbare Fassung; Versiegelung zu einem von ihm bestimmten Zeitpunkt."
+    }
+  },
+  {
+    "v": 1,
+    "nr": 17,
+    "zeit": "2026-10-08T04:31:11.358Z",
+    "partei": "MCowBQYDK2VwAyEA+zbxOA5oa2KyPxb9oRjJysVA2qhoXD8FKl/ahHDgRJ8=",
+    "art": "aussage",
+    "thema": "gruendung",
+    "inhaltHash": "f1250c002844c6acb11f7d95626f00dcbb9f5c377dd2f602dc4d7ea7287ea889",
+    "bezug": [],
+    "sichtbarkeit": "oeffentlich",
+    "vorher": "3b90cd52706322eaae14664c3d43f4df701d69ca3e43aa434562f60ee03b7108",
+    "hash": "37e786df3d6623fab61c4fadcfdbc923326a8dda945ea929655bbf95b024b9f9",
+    "signatur": "tkFT1z/dyPdkpVyx6mfksfcQ+njseyzWAZ8lDAuqArSYNPnvMObx/6H4kqciXTgDopO37h5xo1i+1nOKNPNQDQ==",
+    "inhalt": {
+      "schluessel": "G7",
+      "fassung": 1,
+      "beschlossen": "2026-10-08",
+      "titel": "Versiegelung: Niemand allein kann die Grundgesetze ändern",
+      "kern": [
+        "Zu einem vom Gründer bestimmten Zeitpunkt werden die Grundgesetze geschlossen.",
+        "Danach kann kein einzelner Mensch sie ändern oder die Durchschrift aufhalten — auch der Gründer nicht, auch nicht unter Zwang.",
+        "Änderungen sind dann nur noch über mehrere unabhängige Schlüsselträger in verschiedenen Ländern möglich (k von n) und erst nach einer öffentlichen Wartefrist. Jeder Versuch ist öffentlich sichtbar.",
+        "KI darf Änderungen vorschlagen, aber nie selbst die Grundregeln umschreiben. Sie lernt in Analysen, nicht in den Regeln."
+      ],
+      "quellen": [
+        "Fabian im Vorgang „Offenes Protokoll für Transparenz“, 08.10.2026"
+      ],
+      "phase": "Gründungsphase — Änderungen durch den Gründer als neue, sichtbare Fassung; Versiegelung zu einem von ihm bestimmten Zeitpunkt."
+    }
+  },
+  {
+    "v": 1,
+    "nr": 18,
+    "zeit": "2026-10-08T04:31:11.365Z",
+    "partei": "MCowBQYDK2VwAyEA+zbxOA5oa2KyPxb9oRjJysVA2qhoXD8FKl/ahHDgRJ8=",
+    "art": "aussage",
+    "thema": "gruendung",
+    "inhaltHash": "9afc290d42ad6f28d0ef3261e1e3b882253bcd5506fdf8c2102b97020f9a575b",
+    "bezug": [],
+    "sichtbarkeit": "oeffentlich",
+    "vorher": "37e786df3d6623fab61c4fadcfdbc923326a8dda945ea929655bbf95b024b9f9",
+    "hash": "15338dfbd7bf3bf8d6f8b2487466eb8997ff201529564e2bb1aaf66c955c3a96",
+    "signatur": "Y0yU+GF57YfZ589wrboKkzW94i8/wGSu2/zA9c5Tz+yP8RmYmdFPFXTTPqX//FAzRc0Y2g9nXIH9INGvThzzAg==",
+    "inhalt": {
+      "schluessel": "G8",
+      "fassung": 1,
+      "beschlossen": "2026-10-08",
+      "titel": "Jede Wahrheit hat einen Wirkbereich",
+      "wortlaut": "Der Mensch kann sich seine eigene Wahrheit kreieren … das bedeutet nicht, dass sie nicht wahr ist, sie begrenzt sich nur auf einen kleinen Wirkbereich. … Ich möchte keine Wahrheiten zerstören.",
+      "kern": [
+        "Jede Aussage trägt ihren Wirkbereich: Person, Gruppe, Region, Zeit.",
+        "Deckung wird je Wirkbereich gezeigt — etwa: im Wirkbereich der Marke gedeckt durch drei Zeugen, im Gesamtbild widersprochen durch vierzig Belege.",
+        "Unabhängige Zeugen stützen oder entkräften, ohne die Wahrheit des Einzelnen zu zerstören. Ziel ist, dass jemand bewusst weiß, unter welchen Bedingungen er sich entscheidet."
+      ],
+      "quellen": [
+        "Fabian im Vorgang „Offenes Protokoll für Transparenz“, 08.10.2026"
+      ],
+      "phase": "Gründungsphase — Änderungen durch den Gründer als neue, sichtbare Fassung; Versiegelung zu einem von ihm bestimmten Zeitpunkt."
+    }
+  },
+  {
+    "v": 1,
+    "nr": 19,
+    "zeit": "2026-10-08T04:31:11.372Z",
+    "partei": "MCowBQYDK2VwAyEA+zbxOA5oa2KyPxb9oRjJysVA2qhoXD8FKl/ahHDgRJ8=",
+    "art": "aussage",
+    "thema": "gruendung",
+    "inhaltHash": "438cfb54c41b6b7e7e28f04db9824042854ff1a802df92b8507fc8fa97a8a5f4",
+    "bezug": [],
+    "sichtbarkeit": "oeffentlich",
+    "vorher": "15338dfbd7bf3bf8d6f8b2487466eb8997ff201529564e2bb1aaf66c955c3a96",
+    "hash": "6b442dce0e3647233e59b4e6a1ed8aacb3bbeb81924f679c0b200e596a94e815",
+    "signatur": "iUB60YLAksqP7yVc6VvY0zZp1YFgOHYUoM9gm3ARxv9pv0gt/UhAI9rk98VZ52GIOjgqtMYCp/7YjwRMSKRIAQ==",
+    "inhalt": {
+      "schluessel": "G9",
+      "fassung": 1,
+      "beschlossen": "2026-10-08",
+      "titel": "Nichts vergessen — das heutige Bild nicht verzerren",
+      "wortlaut": "Das Internet vergisst nichts — aber es soll das heutige Bild nicht verzerren.",
+      "kern": [
+        "Die Kette vergisst nichts.",
+        "Jede Darstellung zeigt ihre Belege und ihre Lücken; Vergangenes erscheint als Vergangenes, nicht als heutiger Stand.",
+        "Schweigen ist kein Geständnis: Ohne Abgleich ist eine Aussage offen, nie widersprochen."
+      ],
+      "quellen": [
+        "Fabian im Vorgang „Offenes Protokoll für Transparenz“, 08.10.2026",
+        "Archiv/03_Projekte/WohnenWo/Engine/2026-10-07_UNIVERSUM-ARCHITEKTUR.html (Darstellungsregel)"
+      ],
+      "phase": "Gründungsphase — Änderungen durch den Gründer als neue, sichtbare Fassung; Versiegelung zu einem von ihm bestimmten Zeitpunkt."
+    }
   }
 ]
