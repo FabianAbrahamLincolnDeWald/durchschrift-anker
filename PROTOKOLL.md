@@ -52,10 +52,19 @@ Leerzeichen, `undefined`-Felder entfallen.
 3. **Privat heißt: Inhalt weg, Fingerabdruck bleibt.** Dadurch ist auch eine
    Kette mit privaten Einträgen vollständig prüfbar, und wer den Inhalt kennt,
    kann beweisen, dass es genau dieser war.
-4. **Abgleich hat drei Zustände:** `gedeckt` · `widersprochen` · `offen`. Ohne
-   Abgleich ist eine Aussage `offen` — nie `widersprochen`. Schweigen ist kein
-   Geständnis.
-5. **Auf eine gebrochene Kette wird nicht weitergeschrieben.**
+4. **Abgleich hat vier Zustände:** `gedeckt` · `widersprochen` · `offen` ·
+   `kein_beleg_beigefuegt` (abgeglichen, aber kein Beleg beigelegt — weder
+   gedeckt noch falsch; gleiche Werte wie `abgleiche.stand` in der Datenbank).
+   Ohne Abgleich ist eine Aussage `offen` — nie `widersprochen`. Schweigen ist
+   kein Geständnis.
+5. **Deckung gilt je Absender** (seit 08.10.2026). Je Partei zählt ihr
+   jüngster Abgleich. Eine Korrektur hebt nur Abgleiche **derselben Partei**
+   auf — niemand kann fremde Abgleiche überschreiben oder aufheben.
+   Zusammengefasst wird ohne Score: `widersprochen`, sobald eine Partei
+   widerspricht; sonst `gedeckt`, sobald eine deckt; sonst
+   `kein_beleg_beigefuegt`; sonst `offen`. Ein Widerspruch wird nie von einer
+   Deckung verdeckt, und jede Ansicht kann das Bild je Absender zeigen.
+6. **Auf eine gebrochene Kette wird nicht weitergeschrieben.**
 
 ## Nachrechnen
 
