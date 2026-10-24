@@ -3418,5 +3418,108 @@
         }
       ]
     }
+  },
+  {
+    "v": 1,
+    "nr": 35,
+    "zeit": "2026-10-24T00:41:17.467Z",
+    "partei": "MCowBQYDK2VwAyEAQWEsKR1RyNWMYvzOa4INxXSRpWOFd5Na6V3nU3mex7w=",
+    "art": "beleg",
+    "thema": "anker",
+    "inhaltHash": "8da4eeb609faf6761b76e2afba52b6c55d295b3912535dd4b5b2046a529c245a",
+    "bezug": [],
+    "sichtbarkeit": "oeffentlich",
+    "vorher": "7d0810894569f53820bd7b64013d6dc31683093119df0c2557d200f7943665e6",
+    "hash": "b2a1caad62b5ff53f2b19314485bd763388423384b8f16e44bd781ea42c4b950",
+    "signatur": "JVgKOqBHfhO3T+SQ+4OI2XtfyNJQfnNssu1ESS5837KiZnVOFYBMegIvankw+93MMjo7aGXPj9SEaXWi4ryuBA==",
+    "inhalt": {
+      "regel": "praefixHash = SHA-256 der ersten `zeilen` nichtleeren Zeilen, je mit \\n abgeschlossen",
+      "quellen": [
+        {
+          "quelle": "zeitband:37754a9c-00b0-423c-a074-d664e639f85e",
+          "zeilen": 9,
+          "praefixHash": "c8e8d3e0244c28d9a0e5b11a0b3d760f154c565d84549878fdc8ffa3d0e12919",
+          "unversehrt": true
+        },
+        {
+          "quelle": "zeitband:3d5a8820-8083-4590-b350-02abfa259f5d",
+          "zeilen": 2330,
+          "praefixHash": "605e793c4c87eb41bc996e311ce2c50354c711374d38e3756da45d6db76a87cc",
+          "unversehrt": true
+        },
+        {
+          "quelle": "zeitband:52b83041-09df-42c5-a8ea-f5db6d155339",
+          "zeilen": 8,
+          "praefixHash": "d7049f5a024b0c3b5fa445041b0d0d55ae31e8bf23ec2c42b5be2a2704342633",
+          "unversehrt": true
+        },
+        {
+          "quelle": "zeitband:598a4045-8afc-4695-be40-ea4fd5dc2251",
+          "zeilen": 7,
+          "praefixHash": "52fcd5df6dd44438bf7f3e005b49c0479e0207bc8221d9931964836b0b4d32db",
+          "unversehrt": true
+        },
+        {
+          "quelle": "zeitband:5e0557b3-aa17-4759-bb8e-d4e823a44983",
+          "zeilen": 9,
+          "praefixHash": "ec457ef13b1a9e6c9d9b7fcb8606b5163e9b93974fde6d994ac7b54652c6c861",
+          "unversehrt": true
+        },
+        {
+          "quelle": "zeitband:789ff70d-361a-45fe-8774-ac8bef29ab5f",
+          "zeilen": 6,
+          "praefixHash": "d4284a380efb5ca4ec7271c8a8cc59dcb12f05c3141ba98aa7b2f1708f77b31c",
+          "unversehrt": true
+        },
+        {
+          "quelle": "zeitband:8c7c99d6-ffe6-4ebc-be44-534fea873d88",
+          "zeilen": 569,
+          "praefixHash": "49305fdbab0089c7c96e76642c52a0267693ea90e333fb0c83ebe433daf86317",
+          "unversehrt": true
+        },
+        {
+          "quelle": "zeitband:9422abe6-c5a7-4a56-99d0-3d880aeb9946",
+          "zeilen": 850,
+          "praefixHash": "6a8c4d43d48477450b013a8694507b9adfed592f93d725ca75c1d6a8992142e2",
+          "unversehrt": true
+        },
+        {
+          "quelle": "zeitband:96ed0829-5a04-4053-adb7-6c1f65d4b446",
+          "zeilen": 701,
+          "praefixHash": "e5263c3019f209b8468e6018121840f0f628acc2effbc3cf112e6aed1f25e13e",
+          "unversehrt": true
+        },
+        {
+          "quelle": "zeitband:a3ba3699-08ef-46d1-b09c-845c1b572828",
+          "zeilen": 14,
+          "praefixHash": "73d8277f8511c64de77b2cfa5390865a97fdf8cc409ce5595d2eec558feb9f98",
+          "unversehrt": true
+        },
+        {
+          "quelle": "zeitband:afe9ef05-bdea-499e-a083-dc72f3e88f37",
+          "zeilen": 57,
+          "praefixHash": "4c5bf4133005ac7b4ffd2c7ff00e7438926a7f42c7e674b7d20b6700735362cd",
+          "unversehrt": true
+        },
+        {
+          "quelle": "zeitband:c859faec-b2c6-435e-82a5-f0775c49ad14",
+          "zeilen": 9,
+          "praefixHash": "c5eae6b093de2469692a9c981a731ec62d1281be726338647f5c8c1019a5c18e",
+          "unversehrt": true
+        },
+        {
+          "quelle": "zeitband:dc278300-b48e-401a-83e2-938a5065284d",
+          "zeilen": 7,
+          "praefixHash": "d95aae5071c74981fd89d48ac91a40f6ad1e88ead429c84435910991e080ba6e",
+          "unversehrt": true
+        },
+        {
+          "quelle": "zeitband:eccf99c5-d17b-4f3f-92db-06b6d1a15392",
+          "zeilen": 8,
+          "praefixHash": "4af77dd46b8284b27f0b1c633608494ae3c3a2423fb7587c9f23c7aaec852206",
+          "unversehrt": true
+        }
+      ]
+    }
   }
 ]
