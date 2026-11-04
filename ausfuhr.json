@@ -4749,5 +4749,144 @@
         }
       ]
     }
+  },
+  {
+    "v": 1,
+    "nr": 46,
+    "zeit": "2026-11-04T00:35:50.209Z",
+    "partei": "MCowBQYDK2VwAyEAQWEsKR1RyNWMYvzOa4INxXSRpWOFd5Na6V3nU3mex7w=",
+    "art": "beleg",
+    "thema": "anker",
+    "inhaltHash": "806ea71bdc0f112c2ad4f05883e43c1965746dcec302004abc7d61486acb5c90",
+    "bezug": [],
+    "sichtbarkeit": "oeffentlich",
+    "vorher": "cdcdccdd0ca9ca164ca55658e5e282227dbebf973d76119c62561d9f9a148d08",
+    "hash": "1e5f7529043c4d63651f7c9d383c85ff5fdf5093b3f208eee9b0b15a6432e50b",
+    "signatur": "reC6wsqf58il+0GU/nzthDyarVmqRfK3rU2Zi0nHtG2uFrsoN9K8grE1FojrEsjpzr9sQxq2oT5GRbI2sReDCA==",
+    "inhalt": {
+      "regel": "praefixHash = SHA-256 der ersten `zeilen` nichtleeren Zeilen, je mit \\n abgeschlossen",
+      "quellen": [
+        {
+          "quelle": "zeitband:060642cc-ac29-4749-8bfa-540960adf0b7",
+          "zeilen": 8,
+          "praefixHash": "3b085c4c83d6a86cf44d9f2a2a8c690261a85676d2c824480196d791490ac638",
+          "unversehrt": true
+        },
+        {
+          "quelle": "zeitband:1142b6fd-b9c6-4db5-b29e-1a7a92694450",
+          "zeilen": 416,
+          "praefixHash": "e109e937a7a91505b8926cd03dd2cfa1e96022d1a2a6a984eba2f4f33dfb03dc",
+          "unversehrt": true
+        },
+        {
+          "quelle": "zeitband:3a8f1439-d371-4fe2-9a81-04e4461b91df",
+          "zeilen": 8,
+          "praefixHash": "1c8bbd40b69e3c2a14f89d79c8e8be8efe79947783d48f678fee48423017bd86",
+          "unversehrt": true
+        },
+        {
+          "quelle": "zeitband:3d5a8820-8083-4590-b350-02abfa259f5d",
+          "zeilen": 2779,
+          "praefixHash": "57f0e19df84601523f9baf450739e0078c49726de7924ec766e1e256acee4971",
+          "unversehrt": true
+        },
+        {
+          "quelle": "zeitband:3d808908-d5f8-4e02-b16a-d17088d8dadf",
+          "zeilen": 43,
+          "praefixHash": "d6b11e7cc11fc48e302a7aaf9eb869d3c9b88e7bc74e24c37ebdc83609c740d8",
+          "unversehrt": true
+        },
+        {
+          "quelle": "zeitband:400aec0c-4bf5-4351-8197-9e091aab460c",
+          "zeilen": 379,
+          "praefixHash": "a05994c3cca2b4241ea0d730ab018c2b35129a0dbfc18009904f304f09fbe2a0",
+          "unversehrt": true
+        },
+        {
+          "quelle": "zeitband:47ee69d9-5a0b-4d04-a777-ffc92689741b",
+          "zeilen": 2240,
+          "praefixHash": "ee02f29300eac53c42087b9865b4aad5fb02b0079fd75b7fb4299db1825f0a11",
+          "unversehrt": true
+        },
+        {
+          "quelle": "zeitband:652834dd-f185-45d3-89ca-ada1f1132a84",
+          "zeilen": 8,
+          "praefixHash": "64b5601332b7d0562ceb44018717de8f4465f28b9fafd1f1548b094fc85eafe7",
+          "unversehrt": true
+        },
+        {
+          "quelle": "zeitband:69b0257f-6b62-4e55-a7f3-b7c77c4d3e0f",
+          "zeilen": 18,
+          "praefixHash": "d69b243a648a62c6c1a86a323f733146743e3dce077941cb83e178eebf20342c",
+          "unversehrt": true
+        },
+        {
+          "quelle": "zeitband:8c7c99d6-ffe6-4ebc-be44-534fea873d88",
+          "zeilen": 914,
+          "praefixHash": "e900ea08dcdf2927bd9675e2cf58de194ec24d4548bdc53945ad9d5cadf761f4",
+          "unversehrt": true
+        },
+        {
+          "quelle": "zeitband:9422abe6-c5a7-4a56-99d0-3d880aeb9946",
+          "zeilen": 1084,
+          "praefixHash": "e7331e1be57d38c424474d3bd70b826f52fd52ba72f50ac47da827a26bb00a7a",
+          "unversehrt": true
+        },
+        {
+          "quelle": "zeitband:96ed0829-5a04-4053-adb7-6c1f65d4b446",
+          "zeilen": 1839,
+          "praefixHash": "db7d46dea09f309c2d9204c0568f5bb279c64a70687465f356b6e1d680f01f45",
+          "unversehrt": true
+        },
+        {
+          "quelle": "zeitband:9e145e03-e503-4b63-8ff1-ed7ce8cc0027",
+          "zeilen": 8,
+          "praefixHash": "e6c46972e6f0c9d999663a17cd6766eef108f61524eaac62e83d192388660bee",
+          "unversehrt": true
+        },
+        {
+          "quelle": "zeitband:aa646693-be53-43cb-a7e1-c3543eec3c10",
+          "zeilen": 18,
+          "praefixHash": "b05d5fd458e88c00bc0c73faa0301ca4a61bb4cc0e9efb5e307cf7b547738395",
+          "unversehrt": true
+        },
+        {
+          "quelle": "zeitband:b8047e7b-0014-4bdb-832e-19f881e1c67c",
+          "zeilen": 8,
+          "praefixHash": "b19693afad34ce75f192397d73c6b89e26d86c9f224c05e7b6c16875e0e34ee4",
+          "unversehrt": true
+        },
+        {
+          "quelle": "zeitband:dbefdd59-6e29-4dbd-b85f-49a740bfbb1d",
+          "zeilen": 317,
+          "praefixHash": "570bad9753e80324ddaff389f9fc7eefffba59989059dd5fe5cd8d9fbabc89ca",
+          "unversehrt": true
+        },
+        {
+          "quelle": "zeitband:de2caa57-6b98-47c2-83e4-98a57e3953bc",
+          "zeilen": 30,
+          "praefixHash": "af6911baf909ac1b7232036e888b39b734e248658005d8c988e4d03e93c7f259",
+          "unversehrt": true
+        },
+        {
+          "quelle": "zeitband:e39cf226-d0e1-4c61-9a22-0d20cb7b4ee7",
+          "zeilen": 112,
+          "praefixHash": "f49ec340a430d122468824edeedb21786b25e12c10dc4b5c36a27212805387c3",
+          "unversehrt": true
+        },
+        {
+          "quelle": "zeitband:e5ed2c9a-9e4b-46e5-8fe9-b61860d0d477",
+          "zeilen": 8,
+          "praefixHash": "ff661df69fde242236633eb18b6f75ea1dd45dd49a48cffe811868ec30b17db5",
+          "unversehrt": true
+        },
+        {
+          "quelle": "zeitband:fecf1882-0e8b-4002-8492-2f5a066f39af",
+          "zeilen": 23,
+          "praefixHash": "ffacf5ddfa55058d3061a005212bdc8f977ee2fa20ae41d9dceff887a7358118",
+          "unversehrt": true
+        }
+      ]
+    }
   }
 ]
